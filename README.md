@@ -1,4 +1,4 @@
-# Data Vizualization
+# Data Visualization
 
 Some projects I've made with data viz tools.
 
