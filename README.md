@@ -13,6 +13,7 @@ Click [here](https://public.tableau.com/app/profile/federico.dignani/viz/COVIDDi
 
 ## Power BI
 ### Data Professionals Survey
-![powerbi](https://user-images.githubusercontent.com/99193152/206085066-937f61ab-4645-4d17-8d0d-dc2c1fe5fbbb.png)
+
+![powerbi](https://user-images.githubusercontent.com/99193152/206087251-52e2ad7d-336b-4ee5-8000-ec3b7a431af3.png)
 
 Click [here](datasurvey.pbix) to download interactive dashboard to your computer.
