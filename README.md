@@ -16,4 +16,4 @@ Click [here](https://public.tableau.com/app/profile/federico.dignani/viz/COVIDDi
 
 ![powerbi](https://user-images.githubusercontent.com/99193152/206087251-52e2ad7d-336b-4ee5-8000-ec3b7a431af3.png)
 
-Click [here](datasurvey.pbix) to download interactive dashboard to your computer.
+Click [here](datasurvey.pbix) to download the interactive dashboard to your computer.
