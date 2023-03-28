@@ -11,6 +11,7 @@ Some projects I've made with data viz tools.
 
 Click [here](https://public.tableau.com/app/profile/federico.dignani/viz/STDCalifornia/Dashboard1?publish=yes) to access the interactive dashboard in Tableau Public.
 
+
 ### COVID-19 situation
 
 ![tableau](https://user-images.githubusercontent.com/99193152/206085233-27e587f0-8673-449d-a278-0f792606fce2.png)
