@@ -4,6 +4,13 @@ Some projects I've made with data viz tools.
 
 
 ## Tableau
+
+### STD in California
+
+![std](https://user-images.githubusercontent.com/99193152/228335818-3691fc73-e13d-461b-81a4-2f8745b183ff.png)
+
+Click [here](https://public.tableau.com/app/profile/federico.dignani/viz/STDCalifornia/Dashboard1?publish=yes) to access the interactive dashboard in Tableau Public.
+
 ### COVID-19 situation
 
 ![tableau](https://user-images.githubusercontent.com/99193152/206085233-27e587f0-8673-449d-a278-0f792606fce2.png)
